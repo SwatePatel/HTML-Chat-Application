@@ -54,4 +54,5 @@ if ($type == 'write') {
 
 echo $result4;
 
+
 $conn->close();
